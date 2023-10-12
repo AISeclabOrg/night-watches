@@ -1,4 +1,4 @@
-# :full_moon: Cyber Threat Ingelligence
+# :full_moon: Data Security
 ---
 
 <i>Bu çalışma, [aiseclab.org](https://aiseclab.org/) bünyesinde <b>night-watches</b> ekibi araştırma projesi olarak geliştirilmiştir.</i>
@@ -18,6 +18,9 @@
 
 # :full_moon: Ekip Üyeleri
 ---
+<br/>
+
+**Danışman**: [Hira Beril KÜÇÜK](https://www.linkedin.com/in/hiraberilkucuk/)
 <br/>
 
 1. [Doğukan ESEN](https://github.com/DogukanEsen)
