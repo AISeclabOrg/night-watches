@@ -20,7 +20,7 @@
 ---
 <br/>
 
-**Danışman**: [Hira Beril KÜÇÜK](https://www.linkedin.com/in/hiraberilkucuk/)
+**Danışman**: [Hira Beril KÜÇÜK](https://github.com/hiraberil)
 <br/>
 
 1. [Doğukan ESEN](https://github.com/DogukanEsen)
